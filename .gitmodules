@@ -1,0 +1,3 @@
+[submodule "ecomData"]
+	path = ecomData
+	url = https://github.com/Ashishkhose7/gitrepo.git
